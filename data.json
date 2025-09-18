@@ -1,0 +1,12 @@
+[
+  {
+    "id": 1,
+    "name": "Flask Tutorial",
+    "description": "Learn Flask step by step."
+  },
+  {
+    "id": 2,
+    "name": "Git Workflow",
+    "description": "Practice branching and merging."
+  }
+]
